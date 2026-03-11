@@ -1,0 +1,6 @@
+[package]
+name = "log-viewer"
+edition = "2024"
+
+[dependencies]
+eframe = "0.31"
